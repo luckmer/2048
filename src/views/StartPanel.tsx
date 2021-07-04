@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import home from "../img/home.png";
 import * as _ from "../css/views/StartPanel.Style";
 
 type typeLinks = {
