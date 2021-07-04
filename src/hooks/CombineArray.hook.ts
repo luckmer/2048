@@ -10,7 +10,7 @@ import {
   ThirdRotate,
   TopGenerator,
   FirstRotate,
-} from "./Helper.hook";
+} from "./Helper.Hook";
 
 type PropsType = {
   map: mapType | [];
